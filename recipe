@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Module 01</title>
+</head>
+<body>
+<h1>Introduction to HTML</h1>
+  <h2>Jonathan Hung</h2>
+  <hr>
+  <h3>Chantal's New York Cheesecake</h3>
+  <figure>
+    <a href="https://www.allrecipes.com/recipe/8350/chantals-new-york-cheesecake/?internalSource=hub%20recipe&referringId=276&referringContentType=Recipe%20Hub&clickId=cardslot%208/" target="_blank">
+  <img src="https://images.media-allrecipes.com/userphotos/560x315/5185165.jpg" alt="Cheese Cake" title="Chantal's New York Cheesecake" />
+    </a>
+    <p>
+      <figcaption>
+        The delicious cheese cake with strawberries on top of it.
+      </figcaption>
+    </p>
+    <h4>More recipes:</h4>
+    <a href="https://www.allrecipes.com/recipe/7402/carrot-cake-iii/?internalSource=hub%20recipe&referringContentType=Search&clickId=cardslot%205/" target="_blank">
+    <img src="https://images.media-allrecipes.com/userphotos/560x315/1053595.jpg" alt="Carrot Cake IIi" title="Carrot Cake III" width="200"/>
+    <a href="https://www.allrecipes.com/recipe/112239/caramel-macchiato-cheesecake/?internalSource=hub%20recipe&referringContentType=Search&clickId=cardslot%201/" target="_blank">
+    <img src="https://images.media-allrecipes.com/userphotos/560x315/622321.jpg" alt="Caramel Macchiato Cheesecake" title="Caramel Macchiato Cheesecake" width="200"/>
+    <a href="https://www.allrecipes.com/recipe/201921/lemon-cupcakes/?internalSource=hub%20recipe&referringContentType=Search&clickId=cardslot%202/" target="_blank">
+    <img src="https://images.media-allrecipes.com/userphotos/560x315/5154425.jpg" alt="Lemon cupcake" title="Lemon cupcake" width="200"/>
+    <a href="https://www.allrecipes.com/recipe/25639/tiramisu-layer-cake/?internalSource=hub%20recipe&referringContentType=Search&clickId=cardslot%205/" target="_blank">
+    <img src="https://images.media-allrecipes.com/userphotos/560x315/4443088.jpg" alt="Tiramisu Layer Cake" title="Tiramisu Layer Cake" width="200"/>
+    <a href="https://www.allrecipes.com/recipe/7892/chiffon-cake/?internalSource=recipe%20hub&referringContentType=Search&clickId=cardslot%2045/" target="_blank">
+    <img src="https://images.media-allrecipes.com/userphotos/560x315/1127797.jpg" alt="Chiffon Cake" title="Chiffon cake" width="200"/>
+    </a>
+<body/>
+<html/>
